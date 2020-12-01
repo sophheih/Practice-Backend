@@ -1,6 +1,6 @@
-# MoSoon Massage Backend
+# APP Backend
 
-This is the backend server of project MoSoon Massage, build with Python Django.
+This is the backend server of project Wonderland, build with Python Django.
 
 ## Steps to Start Development
 
@@ -22,5 +22,11 @@ config = {
     "MONGODB_NAME": "",
     "MONGODB_CONNECT_STRING": "",
     "MPG_GATEWAY": "",
+    "MERCHANT_ID":'',
+    "HASH_KEY":'',
+    "HASH_IV":'',
+    "AWS_ACCESS_KEY": '',
+    "AWS_SECRET_KEY": '',
+    "bucket_name":""
 }
 ```
