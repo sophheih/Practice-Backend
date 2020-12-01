@@ -1,4 +1,4 @@
-# APP Backend
+# Practice Backend
 
 This is the backend server of project Wonderland, build with Python Django.
 
