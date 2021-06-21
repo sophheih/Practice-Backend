@@ -1,4 +1,4 @@
-# Womderland Backend
+# Wonderland Backend
 
 This is the backend server of project Wonderland, build with Python Django.
 
